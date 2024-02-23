@@ -1,4 +1,4 @@
-# Frontend Mentor Challenge - [Projenizin Adı]
+# Frontend Mentor Challenge - [QR code component]
 
 Bu repo, Frontend Mentor'un [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) için Halil İbrahim Saral tarafından geliştirilen çözümü içerir. Bu proje, modern web geliştirme tekniklerini kullanarak gerçek dünya simülasyonları üzerinde çalışma fırsatı sunar.
 
