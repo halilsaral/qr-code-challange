@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100vh; /* Viewport'un tam yüksekliği */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d5e1ef;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%; /* Sabit genişlik */
+    height: 70%; /* Sabit yükseklik */
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.qr-code img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h2 {
+    margin-bottom: 20px;
+    color: #222d46;
+}
+
+.text p {
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
